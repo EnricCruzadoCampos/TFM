@@ -3,7 +3,7 @@ Modelización del postprocesado de los mapas de rendimiento de las cosechadoras 
 
 Anexo donde se encuentran los scripts de Spyder utilizados en este presente trabajo.
 
-Donde encontramos los siguientes scripts.
+Donde encontramos los siguientes scripts:
 
 ANEXO_III.I.  Cálculo de porcentaje de píxeles, polígonos eliminados y coeficiente de variación
 
