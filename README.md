@@ -11,7 +11,7 @@ ANEXO_III.II.  Cálculo de los rangos de rendimiento en el píxel y graficado en
 
 ANEXO_III.III.  Semivariogramas
 
-ANEXO_III.IV.  Cálculo de la media del rendimiento y desviación estandar por años y cultivo
+ANEXO_III.IV.  Cálculo de la media del rendimiento y desviación estándar por años y cultivo
 
 ANEXO_III.V.  Cálculo del coeficiente de correlación (r2) para cada tipo de postprocesado
 
