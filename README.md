@@ -15,7 +15,7 @@ ANEXO_III.IV.  Cálculo de la media del rendimiento y desviación estandar por a
 
 ANEXO_III.V.  Cálculo del coeficiente de correlación (r2) para cada tipo de postprocesado
 
-ANEXO_III.VI.  Cálculo de diferencias entre el mejor postprocesado y el paso 1 para un posterior representación en un gráfico de dispersión
+ANEXO_III.VI.  Cálculo de diferencias entre el mejor postprocesado y el paso 1 para una posterior representación en un gráfico de dispersión
 
 ANEXO_III.VII.  Separación de los datos por rangos de rendimiento, posterior cálculo de coeficiente de variación y representación de las frecuencias del paso 1 en un histograma
 
